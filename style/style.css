@@ -1,0 +1,278 @@
+
+
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.header{
+    background-image: url(../images/developer.png),  url(../images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: top left, bottom right ;
+}
+
+.derk-2{
+    color: rgb(109, 108, 108);
+}
+
+.sec-bg{
+    background-color: #fff8f3;
+}
+
+.btn-pramiry{
+    color:white ;
+    background-color: rgb(241, 112, 5);
+    font-weight:bold ;
+    padding: 18px 35px;
+    border-radius: 5px;
+    font-size: 20px;
+    border: none;
+}
+
+.text-colour{
+    color: rgb(241, 112, 5);
+}
+
+
+/* nav styles */
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 150px;
+    
+}
+
+.nav-tital{
+    font-weight: 800px;
+    font-size: 45px;
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+}
+
+
+nav ul li{
+    list-style: none;
+    margin-right: 50px;
+}
+
+nav li a{
+    text-decoration: none;
+    font-size: 20px;
+}
+
+
+/* banner dis */
+
+.banner{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 35px 0 200px;
+}
+
+.banner-content{
+    max-width: 580px;
+}
+
+.banner-gretting{
+    font-size: 45px;
+    font-weight: 600;
+    
+}
+.banner-tital{
+    font-weight: bold;
+    font-size: 85px;
+
+}
+
+.danner-des{
+  color: rgb(53, 51, 51);
+  padding-bottom: 10px;
+  font-size: 18px;
+
+}
+
+
+.banner-pro-pic{
+    width: 580px;
+}
+
+
+
+    /* about */
+
+
+ .section-tiatel{
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(35, 35, 35);
+ } 
+ 
+ .section-des{
+    font-size: 18px;
+    color: rgb(77, 73, 73);
+ }
+
+ .about{
+    border-radius: 10px;
+    padding: 130px 150px ;
+    text-align: center;
+    margin-top: 130px;
+ }
+ main{
+    max-width: 1140px;
+    margin: 0 auto;
+ }
+ .about-items{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-bottom: 20px;
+ }
+ .adout-des{
+    font-weight: bold;
+    font-size: 20px;
+ }
+ .about-tital{
+    color: rgb(95, 90, 90);
+    font-size: 15px;
+ }
+   
+
+ .skills{
+    margin-top: 130px;
+    margin-bottom: 130px;
+ }
+ .skills-tital{
+    font-size: 35px;
+    font-weight: bold;
+    color: rgb(35, 35, 35);
+    text-align: center;
+    margin-bottom: 20px;
+ }
+
+ .sklls-des{
+    font-size: 20px;
+    color: rgb(77, 73, 73);
+    text-align: center;
+   
+ }
+
+ .skilla-con{
+    display: flex;
+    gap: 24px;
+ }
+ .skill{
+    padding: 30px;
+    box-shadow: 0 6px 50px 0 rgb(122, 121, 121);
+    border-radius: 5px;
+    margin-top: 30px;
+    
+ }
+
+ .skill-des{
+    font-size: 17px;
+ }
+   
+
+ .skill-title{
+
+    font-size: 30px;
+    
+ }
+.main section{
+   
+   
+}
+
+
+.section-tiatel{
+
+    text-align: center;
+}
+.res-conte{
+    display: flex;
+    gap: 24px;
+    
+}
+
+.exper-deser{
+    color: rgb(132, 131, 131);
+    margin-bottom: 20px;
+}
+.res-col-tital{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.exper-sub-tital{
+    color: rgb(92, 87, 87);
+    font-size: 15px;
+    
+}
+.exper-tital{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.res-conte hr{
+    margin: 30px 5px;
+}
+
+.resome{
+    margin-bottom: 130px;
+}
+
+.btnt{
+
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 113px;
+    
+   
+}
+
+.reus-dl{
+  
+  
+}
+
+/*  tiih is a footer */
+
+ footer{
+    padding: 130px 230px;
+    display: flex;
+    gap: 100px;
+ }
+
+ .footer-coloum{
+    width: 50%;
+ }
+
+ #mahi{
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+ }
+
+ #hasan{
+    color:white ;
+background-color: rgb(241, 112, 5);
+font-weight:bold ;
+padding: 18px 35px;
+border-radius: 5px;
+font-size: 20px;
+border: none;
+ }
